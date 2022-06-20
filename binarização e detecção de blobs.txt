@@ -1,0 +1,14 @@
+detecção de blobs com python
+
+O que é o blob?
+É uma area de interesse dentro da imagem que queremos analizar
+
+2 formas com opencv
+
+SimpleBlobDetector_create()
+
+OBS: exemplo no codigo testeBlob1.py
+
+link do video:
+https://www.youtube.com/watch?v=d-s8JGq-myo
+
